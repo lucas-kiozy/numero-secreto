@@ -16,4 +16,4 @@ Projeto utilizado nos cursos de lógica de programação da Alura.
 
 | ![Lucas Vieira](https://avatars.githubusercontent.com/u/58722041?v=4) |
 |:--:|
-| [Lucas Silva](https://github.com/lucas-kiozy) |
+| [Lucas Vieira](https://github.com/lucas-kiozy) |
