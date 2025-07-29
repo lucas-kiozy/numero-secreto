@@ -1,7 +1,5 @@
 # Jogo do número secreto
 
----
-
 ## 📝 Sobre
 
 Projeto utilizado nos cursos de lógica de programação da Alura.
@@ -17,5 +15,5 @@ Projeto utilizado nos cursos de lógica de programação da Alura.
 ## 👥 Time
 
 | ![Lucas Vieira](https://avatars.githubusercontent.com/u/58722041?v=4) |
-| :--: |
-| [Lucas Vieira](https://github.com/lucas-kiozy)             |
+|:---:|
+| [Lucas Silva](https://github.com/lucas-kiozy) |
